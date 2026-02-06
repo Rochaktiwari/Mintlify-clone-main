@@ -13,6 +13,7 @@ Original Website: https://www.mintlify.com/
 ## 🌐 Live Demo
 
 🔗 Live Preview: 
+https://mintlify-clone-rochaktiwari.vercel.app/
 
 ---
 
@@ -20,7 +21,7 @@ Original Website: https://www.mintlify.com/
 
 ### Homepage Preview
 
-![Homepage Screenshot](outputimages\127.0.0.1_5501_Mintlify-clone-main_index.html.png)
+![Homepage Screenshot](outputimages/127.0.0.1_5501_Mintlify-clone-main_index.html.png)
 
 
 ---
